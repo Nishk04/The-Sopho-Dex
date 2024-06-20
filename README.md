@@ -1,1 +1,1 @@
-# The-Sopho-Dex
+This is the Sophodex, 
